@@ -58,9 +58,13 @@ pip install pandas matplotlib seaborn
 ## 🧠 How to Run
 
 Clone the repository or download the folder.
+
 Make sure `netflix_titles.csv` is in the folder.
+
 Run the notebook or script:
+
 In Jupyter Notebook: Cell by cell.
+
 In VS Code Terminal:
 ```bash
 analysis.ipynb
@@ -75,7 +79,3 @@ netflix-analysis/
 ├── netflix_titles.csv
 ├── analysis.ipynb 
 └── README.md
-
-
-
-
