@@ -38,7 +38,7 @@ seaborn
 collections
 ```
 
-## Install With
+## ✅Install With
 
 ```bash
 pip install pandas matplotlib seaborn
